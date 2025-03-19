@@ -1,5 +1,3 @@
-pyarrow
-pandas
 geopandas
 pyogrio
 geodatasets
@@ -7,4 +5,3 @@ streamlit_folium
 branca
 plotly-express
 matplotlib
-streamlit
