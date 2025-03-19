@@ -1,0 +1,10 @@
+pyarrow == 19.0.1
+pandas == 1.4.0
+geopandas == 1.0.1
+pyogrio == 0.7.2
+geodatasets == 2024.8.0
+streamlit_folium == 0.24.0
+branca == 0.6.0
+plotly-express == 0.4.1
+matplotlib == 3.10.1
+streamlit == 1.43.2
